@@ -16,6 +16,7 @@ using Microsoft.Owin.Security.OAuth;
 using _24HourGroupAssignment.Models;
 using _24HourGroupAssignment.Providers;
 using _24HourGroupAssignment.Results;
+using _24HourGroupAssignment.Data;
 
 namespace _24HourGroupAssignment.Controllers
 {
