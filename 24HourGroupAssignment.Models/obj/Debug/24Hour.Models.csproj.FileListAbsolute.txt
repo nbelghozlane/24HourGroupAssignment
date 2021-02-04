@@ -30,3 +30,6 @@ C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\BLueBadge\24HourGroupAssi
 C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\BLueBadge\24HourGroupAssignment\24HourGroupAssignment.Models\obj\Debug\24Hour.Models.csproj.CopyComplete
 C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\BLueBadge\24HourGroupAssignment\24HourGroupAssignment.Models\obj\Debug\24HourGroupAssignment.Models.dll
 C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\BLueBadge\24HourGroupAssignment\24HourGroupAssignment.Models\obj\Debug\24HourGroupAssignment.Models.pdb
+C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\BLueBadge\24HourGroupAssignment\24HourGroupAssignment.Models\bin\Debug\24HourGroupAssignment.Data.dll
+C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\BLueBadge\24HourGroupAssignment\24HourGroupAssignment.Models\bin\Debug\24HourGroupAssignment.Data.pdb
+C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\BLueBadge\24HourGroupAssignment\24HourGroupAssignment.Models\bin\Debug\24HourGroupAssignment.Data.dll.config

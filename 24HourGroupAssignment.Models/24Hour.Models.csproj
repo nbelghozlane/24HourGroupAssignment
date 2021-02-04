@@ -70,10 +70,6 @@
       <Project>{27a44330-882d-4e74-9a5e-a1db9f3c0ed0}</Project>
       <Name>24Hour.Data</Name>
     </ProjectReference>
-    <ProjectReference Include="..\24HourGroupAssignment.Services\24Hour.Services.csproj">
-      <Project>{92176db7-559e-464e-9a0e-a44bd1cd05d4}</Project>
-      <Name>24Hour.Services</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -19,9 +19,14 @@ namespace _24HourGroupAssignment.Data
         public string Title { get; set; }
         [Required]
         public string Text { get; set; }
-        [ForeignKey(nameof(Comments))]
-        public int CommentId { get; set; }
-        public virtual List<Comment> Comments { get; set; }
+        [Required]
+        [Display(Name = "Created")]
+        public DateTimeOffset CreatedUtc { get; set; }
+        public DateTimeOffset? ModifiedUtc { get; set; }
+
+        //[ForeignKey(nameof(Comments))]
+        //public int CommentId { get; set; }
+        //public virtual List<Comment> Comments { get; set; }
        
     }
 }

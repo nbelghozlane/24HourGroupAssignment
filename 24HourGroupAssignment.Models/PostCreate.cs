@@ -18,5 +18,7 @@ namespace _24HourGroupAssignment.Models
         [MaxLength(500,ErrorMessage = "There are tooo many caracters in this field, 15 characters is the maximum")]
         public string Text { get; set; }
 
+        public int commentId { get; set; }
+
     }
 }

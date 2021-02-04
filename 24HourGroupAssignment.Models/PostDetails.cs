@@ -1,4 +1,5 @@
-﻿using System;
+﻿using _24HourGroupAssignment.Data;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
@@ -17,5 +18,6 @@ namespace _24HourGroupAssignment.Models
 
         [Display(Name = "Modified")]
         public DateTimeOffset? ModifiedUtc { get; set; }
+        //public List<Comment> Comments { get; set; }
     }
 }
