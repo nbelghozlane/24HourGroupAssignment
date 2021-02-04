@@ -14,3 +14,19 @@ C:\ElevenFifty Projects\DotNetProjects\24HourGroupAssignment\24HourGroupAssignme
 C:\ElevenFifty Projects\DotNetProjects\24HourGroupAssignment\24HourGroupAssignment.Services\obj\Debug\24Hour.Services.csproj.CopyComplete
 C:\ElevenFifty Projects\DotNetProjects\24HourGroupAssignment\24HourGroupAssignment.Services\obj\Debug\24HourGroupAssignment.Services.dll
 C:\ElevenFifty Projects\DotNetProjects\24HourGroupAssignment\24HourGroupAssignment.Services\obj\Debug\24HourGroupAssignment.Services.pdb
+C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\BLueBadge\24HourGroupAssignment\24HourGroupAssignment.Services\bin\Debug\24HourGroupAssignment.Services.dll.config
+C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\BLueBadge\24HourGroupAssignment\24HourGroupAssignment.Services\bin\Debug\24HourGroupAssignment.Services.dll
+C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\BLueBadge\24HourGroupAssignment\24HourGroupAssignment.Services\bin\Debug\24HourGroupAssignment.Services.pdb
+C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\BLueBadge\24HourGroupAssignment\24HourGroupAssignment.Services\bin\Debug\EntityFramework.dll
+C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\BLueBadge\24HourGroupAssignment\24HourGroupAssignment.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\BLueBadge\24HourGroupAssignment\24HourGroupAssignment.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\BLueBadge\24HourGroupAssignment\24HourGroupAssignment.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\BLueBadge\24HourGroupAssignment\24HourGroupAssignment.Services\bin\Debug\EntityFramework.xml
+C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\BLueBadge\24HourGroupAssignment\24HourGroupAssignment.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\BLueBadge\24HourGroupAssignment\24HourGroupAssignment.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\BLueBadge\24HourGroupAssignment\24HourGroupAssignment.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\BLueBadge\24HourGroupAssignment\24HourGroupAssignment.Services\obj\Debug\24Hour.Services.csprojAssemblyReference.cache
+C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\BLueBadge\24HourGroupAssignment\24HourGroupAssignment.Services\obj\Debug\24Hour.Services.csproj.CoreCompileInputs.cache
+C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\BLueBadge\24HourGroupAssignment\24HourGroupAssignment.Services\obj\Debug\24Hour.Services.csproj.CopyComplete
+C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\BLueBadge\24HourGroupAssignment\24HourGroupAssignment.Services\obj\Debug\24HourGroupAssignment.Services.dll
+C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\BLueBadge\24HourGroupAssignment\24HourGroupAssignment.Services\obj\Debug\24HourGroupAssignment.Services.pdb
