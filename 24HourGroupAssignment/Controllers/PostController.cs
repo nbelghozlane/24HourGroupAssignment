@@ -45,5 +45,24 @@ namespace _24HourGroupAssignment.Controllers
             var post = postService.GetPostById(Id);
             return Ok(post);
         }
+        public IHttpActionResult Put(PostEdit Post)
+        {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+            var service = CreatePostService();
+            if (!service.UpdatedPost(Post))
+                return InternalServerError();
+            return Ok("The Post Was Successfully Updated.");
+        }
+
+        public IHttpActionResult Delete(int Id)
+        {
+            var service = CreatePostService();
+            if (!service.DeletePost(Id))
+                return InternalServerError();
+            return Ok("The Post Was Successfully deleted");
+        }
     }
 }

@@ -14,7 +14,7 @@ namespace _24HourGroupAssignment.Data
         [Key]
         public int Id { get; set; }
         [Required]
-        public Guid Author { get; set; }
+        public Guid Author { get; set; }// Guid is a unique identifier for the user
         [Required]
         public string Title { get; set; }
         [Required]
@@ -23,10 +23,7 @@ namespace _24HourGroupAssignment.Data
         [Display(Name = "Created")]
         public DateTimeOffset CreatedUtc { get; set; }
         public DateTimeOffset? ModifiedUtc { get; set; }
-
-        //[ForeignKey(nameof(Comments))]
-        //public int CommentId { get; set; }
-        //public virtual List<Comment> Comments { get; set; }
+       // public virtual List<Comment> Comments { get; set; }
        
     }
 }

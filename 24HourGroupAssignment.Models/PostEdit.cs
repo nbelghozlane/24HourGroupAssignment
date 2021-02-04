@@ -11,6 +11,6 @@ namespace _24HourGroupAssignment.Models
         public int PostId { get; set; }
         public string Title { get; set; }
         public string Text { get; set; }
-        public int CommentId { get; set; }
+       
     }
 }
