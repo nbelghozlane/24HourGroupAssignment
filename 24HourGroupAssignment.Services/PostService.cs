@@ -51,9 +51,7 @@ namespace _24HourGroupAssignment.Services
                         Likes=e.Likes.Count()
                     });
                 return entity.ToArray();
-                    
-
-                    
+   
                     
             }
                  
