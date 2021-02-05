@@ -14,6 +14,7 @@ C:\ElevenFifty Projects\DotNetProjects\24HourGroupAssignment\24HourGroupAssignme
 C:\ElevenFifty Projects\DotNetProjects\24HourGroupAssignment\24HourGroupAssignment.Services\obj\Debug\24Hour.Services.csproj.CopyComplete
 C:\ElevenFifty Projects\DotNetProjects\24HourGroupAssignment\24HourGroupAssignment.Services\obj\Debug\24HourGroupAssignment.Services.dll
 C:\ElevenFifty Projects\DotNetProjects\24HourGroupAssignment\24HourGroupAssignment.Services\obj\Debug\24HourGroupAssignment.Services.pdb
+<<<<<<< HEAD
 C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\BLueBadge\24HourGroupAssignment\24HourGroupAssignment.Services\bin\Debug\24HourGroupAssignment.Services.dll.config
 C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\BLueBadge\24HourGroupAssignment\24HourGroupAssignment.Services\bin\Debug\24HourGroupAssignment.Services.dll
 C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\BLueBadge\24HourGroupAssignment\24HourGroupAssignment.Services\bin\Debug\24HourGroupAssignment.Services.pdb
@@ -36,3 +37,11 @@ C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\BLueBadge\24HourGroupAssi
 C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\BLueBadge\24HourGroupAssignment\24HourGroupAssignment.Services\bin\Debug\24HourGroupAssignment.Data.dll.config
 C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\BLueBadge\24HourGroupAssignment\24HourGroupAssignment.Services\bin\Debug\24HourGroupAssignment.Models.pdb
 C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\BLueBadge\24HourGroupAssignment\24HourGroupAssignment.Services\bin\Debug\24HourGroupAssignment.Models.dll.config
+=======
+C:\ElevenFifty Projects\DotNetProjects\24HourGroupAssignment\24HourGroupAssignment.Services\bin\Debug\24HourGroupAssignment.Data.dll
+C:\ElevenFifty Projects\DotNetProjects\24HourGroupAssignment\24HourGroupAssignment.Services\bin\Debug\24HourGroupAssignment.Models.dll
+C:\ElevenFifty Projects\DotNetProjects\24HourGroupAssignment\24HourGroupAssignment.Services\bin\Debug\24HourGroupAssignment.Data.pdb
+C:\ElevenFifty Projects\DotNetProjects\24HourGroupAssignment\24HourGroupAssignment.Services\bin\Debug\24HourGroupAssignment.Data.dll.config
+C:\ElevenFifty Projects\DotNetProjects\24HourGroupAssignment\24HourGroupAssignment.Services\bin\Debug\24HourGroupAssignment.Models.pdb
+C:\ElevenFifty Projects\DotNetProjects\24HourGroupAssignment\24HourGroupAssignment.Services\bin\Debug\24HourGroupAssignment.Models.dll.config
+>>>>>>> origin/develop2

@@ -86,6 +86,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="IdentityModels.cs" />
+<<<<<<< HEAD
     <Compile Include="Like.cs" />
     <Compile Include="Migrations\202102042042149_InitialCreate.cs" />
     <Compile Include="Migrations\202102042042149_InitialCreate.Designer.cs">
@@ -105,6 +106,17 @@
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Post.cs" />
+=======
+    <Compile Include="Migrations\202102050044374_1stMigration.cs" />
+    <Compile Include="Migrations\202102050044374_1stMigration.Designer.cs">
+      <DependentUpon>202102050044374_1stMigration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202102051803123_AddedDateProperties.cs" />
+    <Compile Include="Migrations\202102051803123_AddedDateProperties.Designer.cs">
+      <DependentUpon>202102051803123_AddedDateProperties.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
+>>>>>>> origin/develop2
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -112,6 +124,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <EmbeddedResource Include="Migrations\202102042042149_InitialCreate.resx">
       <DependentUpon>202102042042149_InitialCreate.cs</DependentUpon>
     </EmbeddedResource>
@@ -123,6 +136,13 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202102050207242_anotherMigration.resx">
       <DependentUpon>202102050207242_anotherMigration.cs</DependentUpon>
+=======
+    <EmbeddedResource Include="Migrations\202102050044374_1stMigration.resx">
+      <DependentUpon>202102050044374_1stMigration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202102051803123_AddedDateProperties.resx">
+      <DependentUpon>202102051803123_AddedDateProperties.cs</DependentUpon>
+>>>>>>> origin/develop2
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

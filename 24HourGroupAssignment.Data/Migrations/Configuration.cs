@@ -10,7 +10,10 @@ namespace _24HourGroupAssignment.Data.Migrations
         public Configuration()
         {
             AutomaticMigrationsEnabled = false;
+<<<<<<< HEAD
             ContextKey = "_24HourGroupAssignment.Data.ApplicationDbContext";
+=======
+>>>>>>> origin/develop2
         }
 
         protected override void Seed(_24HourGroupAssignment.Data.ApplicationDbContext context)

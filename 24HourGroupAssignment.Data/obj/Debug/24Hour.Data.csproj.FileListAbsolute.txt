@@ -33,6 +33,7 @@ C:\ElevenFifty Projects\DotNetProjects\24HourGroupAssignment\24HourGroupAssignme
 C:\ElevenFifty Projects\DotNetProjects\24HourGroupAssignment\24HourGroupAssignment.Data\obj\Debug\24Hour.Data.csproj.CopyComplete
 C:\ElevenFifty Projects\DotNetProjects\24HourGroupAssignment\24HourGroupAssignment.Data\obj\Debug\24HourGroupAssignment.Data.dll
 C:\ElevenFifty Projects\DotNetProjects\24HourGroupAssignment\24HourGroupAssignment.Data\obj\Debug\24HourGroupAssignment.Data.pdb
+<<<<<<< HEAD
 C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\BLueBadge\24HourGroupAssignment\24HourGroupAssignment.Data\bin\Debug\24HourGroupAssignment.Data.dll.config
 C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\BLueBadge\24HourGroupAssignment\24HourGroupAssignment.Data\bin\Debug\24HourGroupAssignment.Data.dll
 C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\BLueBadge\24HourGroupAssignment\24HourGroupAssignment.Data\bin\Debug\24HourGroupAssignment.Data.pdb
@@ -73,3 +74,8 @@ C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\BLueBadge\24HourGroupAssi
 C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\BLueBadge\24HourGroupAssignment\24HourGroupAssignment.Data\obj\Debug\_24HourGroupAssignment.Data.Migrations.FirstMigration.resources
 C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\BLueBadge\24HourGroupAssignment\24HourGroupAssignment.Data\obj\Debug\_24HourGroupAssignment.Data.Migrations.SecondMigration.resources
 C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\BLueBadge\24HourGroupAssignment\24HourGroupAssignment.Data\obj\Debug\_24HourGroupAssignment.Data.Migrations.anotherMigration.resources
+=======
+C:\ElevenFifty Projects\DotNetProjects\24HourGroupAssignment\24HourGroupAssignment.Data\obj\Debug\_24HourGroupAssignment.Data.Migrations._1stMigration.resources
+C:\ElevenFifty Projects\DotNetProjects\24HourGroupAssignment\24HourGroupAssignment.Data\obj\Debug\24Hour.Data.csproj.GenerateResource.cache
+C:\ElevenFifty Projects\DotNetProjects\24HourGroupAssignment\24HourGroupAssignment.Data\obj\Debug\_24HourGroupAssignment.Data.Migrations.AddedDateProperties.resources
+>>>>>>> origin/develop2
