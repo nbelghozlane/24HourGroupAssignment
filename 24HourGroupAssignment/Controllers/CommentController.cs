@@ -18,7 +18,13 @@ namespace _24HourGroupAssignment.Controllers
             CommentService commentService = CreateCommentService();
             var comments = commentService.GetComments();
             return Ok(comments);
-            
+        }
+
+        public IHttpActionResult Get(int commentId)
+        {
+            CommentService commentService = CreateCommentService();
+            var comment = commentService.GetCommentById(commentId);
+            return Ok(comment);
         }
 
         public IHttpActionResult Post(CommentCreate comment)
