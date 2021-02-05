@@ -12,7 +12,7 @@ namespace _24HourGroupAssignment.Data
     {
         //Nadia
         [Key]
-        public int Id { get; set; }
+        public int CommentId { get; set; } 
 
         [Required]
         public string Text { get; set; }
@@ -20,10 +20,10 @@ namespace _24HourGroupAssignment.Data
         [Required]
         public Guid Author { get; set; }
 
-        public virtual List<Reply> Replies { get; set; } = new List<Reply>();
+        //public virtual List<Reply> Replies { get; set; } = new List<Reply>();
 
-        [ForeignKey (nameof(Post))]
-        public int PostId { get; set; }
-        public virtual Post Post { get; set; }
+        //[ForeignKey (nameof(Post))]
+        //public int PostId { get; set; }
+        //public virtual Post Post { get; set; }
     }
 }
