@@ -33,3 +33,6 @@ C:\ElevenFifty Projects\DotNetProjects\24HourGroupAssignment\24HourGroupAssignme
 C:\ElevenFifty Projects\DotNetProjects\24HourGroupAssignment\24HourGroupAssignment.Data\obj\Debug\24Hour.Data.csproj.CopyComplete
 C:\ElevenFifty Projects\DotNetProjects\24HourGroupAssignment\24HourGroupAssignment.Data\obj\Debug\24HourGroupAssignment.Data.dll
 C:\ElevenFifty Projects\DotNetProjects\24HourGroupAssignment\24HourGroupAssignment.Data\obj\Debug\24HourGroupAssignment.Data.pdb
+C:\ElevenFifty Projects\DotNetProjects\24HourGroupAssignment\24HourGroupAssignment.Data\obj\Debug\_24HourGroupAssignment.Data.Migrations._1stMigration.resources
+C:\ElevenFifty Projects\DotNetProjects\24HourGroupAssignment\24HourGroupAssignment.Data\obj\Debug\24Hour.Data.csproj.GenerateResource.cache
+C:\ElevenFifty Projects\DotNetProjects\24HourGroupAssignment\24HourGroupAssignment.Data\obj\Debug\_24HourGroupAssignment.Data.Migrations.AddedDateProperties.resources
