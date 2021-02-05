@@ -12,7 +12,7 @@ namespace _24HourGroupAssignment.Models
         public int CommentId { get; set; } 
         public string Text { get; set; }
 
-        [Display(Name="Created By:")]
-        public Guid Author { get; set; }
+        [Display(Name = "Created")]
+        public DateTimeOffset CreatedUtc { get; set; }
     }
 }

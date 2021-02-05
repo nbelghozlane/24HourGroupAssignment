@@ -23,7 +23,8 @@ namespace _24HourGroupAssignment.Services
                 new Comment()
                 {
                     Author = _userId,
-                    Text = model.Text
+                    Text = model.Text,
+                    CreatedUtc = DateTimeOffset.Now
                 };
 
             using (var ctx = new ApplicationDbContext())
@@ -46,7 +47,8 @@ namespace _24HourGroupAssignment.Services
                                 new CommentListItem
                                 {
                                     CommentId = e.CommentId,
-                                    Text = e.Text
+                                    Text = e.Text,
+                                    CreatedUtc = e.CreatedUtc
                                 }
                         );
 
@@ -66,7 +68,9 @@ namespace _24HourGroupAssignment.Services
                     new CommentDetail
                     {
                         CommentId = entity.CommentId,
-                        Text = entity.Text
+                        Text = entity.Text,
+                        CreatedUtc = entity.CreatedUtc,
+                        ModifiedUtc = entity.ModifiedUtc
                     };
             }
         }
@@ -82,6 +86,7 @@ namespace _24HourGroupAssignment.Services
 
                 entity.CommentId = model.CommentId;
                 entity.Text = model.Text;
+                entity.ModifiedUtc = DateTimeOffset.UtcNow;
 
                 return ctx.SaveChanges() == 1;
             }

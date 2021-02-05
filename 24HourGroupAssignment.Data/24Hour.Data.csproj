@@ -90,6 +90,10 @@
     <Compile Include="Migrations\202102050044374_1stMigration.Designer.cs">
       <DependentUpon>202102050044374_1stMigration.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202102051803123_AddedDateProperties.cs" />
+    <Compile Include="Migrations\202102051803123_AddedDateProperties.Designer.cs">
+      <DependentUpon>202102051803123_AddedDateProperties.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -100,6 +104,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\202102050044374_1stMigration.resx">
       <DependentUpon>202102050044374_1stMigration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202102051803123_AddedDateProperties.resx">
+      <DependentUpon>202102051803123_AddedDateProperties.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

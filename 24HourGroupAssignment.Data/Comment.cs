@@ -20,12 +20,15 @@ namespace _24HourGroupAssignment.Data
         [Required]
         public Guid Author { get; set; }
 
+        [Required]
+        public DateTimeOffset CreatedUtc { get; set; } 
+
+        public DateTimeOffset? ModifiedUtc { get; set; } 
+
         //public virtual List<Reply> Replies { get; set; } = new List<Reply>();
 
         //[ForeignKey (nameof(Post))]
         //public int PostId { get; set; }
         //public virtual Post Post { get; set; }
-
-        //Add date property?
     }
 }
