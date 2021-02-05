@@ -70,5 +70,36 @@ namespace _24HourGroupAssignment.Services
                     };
             }
         }
+
+        public bool UpdateComment(CommentEdit model)
+        {
+            using(var ctx = new ApplicationDbContext())
+            {
+                var entity =
+                    ctx
+                        .Comments
+                        .Single(e => e.CommentId == model.CommentId && e.Author == _userId);
+
+                entity.CommentId = model.CommentId;
+                entity.Text = model.Text;
+
+                return ctx.SaveChanges() == 1;
+            }
+        }
+
+        public bool DeleteComment(int commentId)
+        {
+            using(var ctx = new ApplicationDbContext())
+            {
+                var entity =
+                    ctx
+                        .Comments
+                        .Single(e => e.CommentId == commentId && e.Author == _userId);
+
+                ctx.Comments.Remove(entity);
+
+                return ctx.SaveChanges() == 1;
+            }
+        }
     }
 }

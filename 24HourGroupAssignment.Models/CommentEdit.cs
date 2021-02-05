@@ -6,10 +6,9 @@ using System.Threading.Tasks;
 
 namespace _24HourGroupAssignment.Models
 {
-    public class CommentDetail
+    public class CommentEdit
     {
         public int CommentId { get; set; }
         public string Text { get; set; }
-        public Guid Author { get; set; } 
     }
 }

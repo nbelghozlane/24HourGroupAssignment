@@ -11,7 +11,7 @@ namespace _24HourGroupAssignment.Models
     {
         [Required]
         [MinLength(1, ErrorMessage = "Please enter at least 1 character.")]
-        [MaxLength(10000, ErrorMessage = "There are too many characters (Must have 10,000 characters or less).")]
+        [MaxLength(10000, ErrorMessage = "Must have 10,000 characters or less in this field.")]
         public string Text { get; set; }
         public Guid Author { get; set; }
     }
