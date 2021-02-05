@@ -47,8 +47,8 @@ namespace _24HourGroupAssignment.Services
                         PostId = e.Id,
                         Title = e.Title,
                         //Comments = e.Comments,
-                        CreatedUtc = e.CreatedUtc
-
+                        CreatedUtc = e.CreatedUtc,
+                        Likes=e.Likes.Count()
                     });
                 return entity.ToArray();
                     
