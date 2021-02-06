@@ -125,3 +125,5 @@ C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\New folder (3)\24HourGrou
 C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\New folder (3)\24HourGroupAssignment\24HourGroupAssignment\obj\Debug\24Hour.WebAPI.csproj.CopyComplete
 C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\New folder (3)\24HourGroupAssignment\24HourGroupAssignment\obj\Debug\24HourGroupAssignment.dll
 C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\New folder (3)\24HourGroupAssignment\24HourGroupAssignment\obj\Debug\24HourGroupAssignment.pdb
+C:\Users\carlo\Desktop\24HourGroupAssignment(Final)\24HourGroupAssignment\obj\Debug\24Hour.WebAPI.csprojAssemblyReference.cache
+C:\Users\carlo\Desktop\24HourGroupAssignment(Final)\24HourGroupAssignment\obj\Debug\24Hour.WebAPI.csproj.CoreCompileInputs.cache
