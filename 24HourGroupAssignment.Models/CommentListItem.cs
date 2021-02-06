@@ -14,5 +14,6 @@ namespace _24HourGroupAssignment.Models
 
         [Display(Name = "Created")]
         public DateTimeOffset CreatedUtc { get; set; }
+        //public virtual List<Reply> Replies { get; set; }
     }
 }

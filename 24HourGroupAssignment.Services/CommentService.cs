@@ -49,6 +49,7 @@ namespace _24HourGroupAssignment.Services
                                     CommentId = e.CommentId,
                                     Text = e.Text,
                                     CreatedUtc = e.CreatedUtc
+                                    //Replies = e.Replies
                                 }
                         );
 
@@ -71,6 +72,7 @@ namespace _24HourGroupAssignment.Services
                         Text = entity.Text,
                         CreatedUtc = entity.CreatedUtc,
                         ModifiedUtc = entity.ModifiedUtc
+                        //Replies = entity.Replies
                     };
             }
         }
