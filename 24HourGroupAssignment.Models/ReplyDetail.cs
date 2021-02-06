@@ -5,25 +5,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _24HourGroupAssignment.Data
+namespace _24HourGroupAssignment.Models
 {
-    public class Reply
+    public class ReplyDetail
     {
-        //Carlos
-
-        [Key]
         public int Id { get; set; }
-
-        [Required]
         public string Text { get; set; }
 
-        [Required]
-        public Guid Author { get; set; }
-
-        [Required]
-
+        [Display(Name = "Created")]
         public DateTimeOffset CreatedUtc { get; set; }
 
-        public DateTimeOffset? ModiefiedUtc { get; set; }
+        [Display(Name = "Modified")]
+        public DateTimeOffset? ModifiedUtc { get; set; }
     }
 }
