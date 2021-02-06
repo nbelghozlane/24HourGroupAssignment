@@ -57,8 +57,8 @@ C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\New folder (3)\24HourGrou
 C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\New folder (3)\24HourGroupAssignment\24HourGroupAssignment.Models\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\New folder (3)\24HourGroupAssignment\24HourGroupAssignment.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\New folder (3)\24HourGroupAssignment\24HourGroupAssignment.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\New folder (3)\24HourGroupAssignment\24HourGroupAssignment.Models\obj\Debug\24Hour.Models.csprojAssemblyReference.cache
 C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\New folder (3)\24HourGroupAssignment\24HourGroupAssignment.Models\obj\Debug\24Hour.Models.csproj.CoreCompileInputs.cache
 C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\New folder (3)\24HourGroupAssignment\24HourGroupAssignment.Models\obj\Debug\24Hour.Models.csproj.CopyComplete
 C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\New folder (3)\24HourGroupAssignment\24HourGroupAssignment.Models\obj\Debug\24HourGroupAssignment.Models.dll
 C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\New folder (3)\24HourGroupAssignment\24HourGroupAssignment.Models\obj\Debug\24HourGroupAssignment.Models.pdb
+C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\New folder (3)\24HourGroupAssignment\24HourGroupAssignment.Models\obj\Debug\24Hour.Models.csprojAssemblyReference.cache
