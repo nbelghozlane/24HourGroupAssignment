@@ -16,7 +16,7 @@ namespace _24HourGroupAssignment.Models.Post
         [Display(Name = "Created")]
         public DateTimeOffset CreatedUtc { get; set; }
 
-        // public virtual List<Comment> Comments { get; set; }
+         public virtual List<CommentListItem> Comments { get; set; }
         public int Likes { get; set; }
     }
 }

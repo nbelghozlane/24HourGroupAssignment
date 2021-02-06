@@ -1,5 +1,3 @@
-C:\ElevenFifty Projects\DotNetProjects\24HourGroupAssignment\24HourGroupAssignment\obj\Debug\24Hour.WebAPI.csprojAssemblyReference.cache
-C:\ElevenFifty Projects\DotNetProjects\24HourGroupAssignment\24HourGroupAssignment\obj\Debug\24Hour.WebAPI.csproj.CoreCompileInputs.cache
 C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\New folder (3)\24HourGroupAssignment\24HourGroupAssignment\bin\24HourGroupAssignment.dll.config
 C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\New folder (3)\24HourGroupAssignment\24HourGroupAssignment\bin\24HourGroupAssignment.dll
 C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\New folder (3)\24HourGroupAssignment\24HourGroupAssignment\bin\24HourGroupAssignment.pdb

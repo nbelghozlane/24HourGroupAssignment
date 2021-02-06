@@ -5,21 +5,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _24HourGroupAssignment.Models.Post
+namespace _24HourGroupAssignment.Models
 {
-    public class PostDetails
+    public class ReplyDetail
     {
-        //Get Post By Id
-        public int PostId { get; set; }
-        public string PostTitle { get; set; }
-        public string PostText { get; set; }
+        public int Id { get; set; }
+        public string Text { get; set; }
 
         [Display(Name = "Created")]
         public DateTimeOffset CreatedUtc { get; set; }
 
         [Display(Name = "Modified")]
         public DateTimeOffset? ModifiedUtc { get; set; }
-
-        public List<CommentListItem> Comments { get; set; }
     }
 }

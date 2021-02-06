@@ -1,4 +1,5 @@
 ﻿using _24HourGroupAssignment.Data;
+using _24HourGroupAssignment.Models;
 using _24HourGroupAssignment.Models.Post;
 using System;
 using System.Collections.Generic;
@@ -48,8 +49,16 @@ namespace _24HourGroupAssignment.Services
                         Title = e.Title,
                         //Comments = e.Comments,
                         CreatedUtc = e.CreatedUtc,
-                        Likes = e.Likes.Count() // Count method will return the number of likes each post has
-                    });
+                        Likes = e.Likes.Count(), // Count method will return the number of likes each post has
+                        Comments = e.Comments.Select(
+                     x => new CommentListItem
+                     {
+                        CommentId=x.CommentId,
+                         Text = x.Text,
+                         
+                     }).ToList()
+
+            }); 
                 return entity.ToArray();
 
 
@@ -68,9 +77,18 @@ namespace _24HourGroupAssignment.Services
                     PostId = entity.Id,
                     PostTitle = entity.Title,
                     PostText = entity.Text,
-                    //Comments=entity.Comments,
+                 
                     CreatedUtc = entity.CreatedUtc,
-                    ModifiedUtc = entity.ModifiedUtc
+                    ModifiedUtc = entity.ModifiedUtc,
+                     Comments = entity.Comments.Select(
+                     x => new CommentListItem
+                     {
+                         CommentId = x.CommentId,
+                         Text = x.Text,
+
+                     }).ToList()
+
+
                 };
             }
         }
