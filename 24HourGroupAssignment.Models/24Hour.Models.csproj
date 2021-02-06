@@ -54,6 +54,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Like\LikeCreate.cs" />
+    <Compile Include="Like\LikeList.cs" />
+    <Compile Include="Like\LikeDetails.cs" />
+    <Compile Include="Post\PostCreate.cs" />
+    <Compile Include="Post\PostDetails.cs" />
+    <Compile Include="Post\PostEdit.cs" />
+    <Compile Include="Post\PostList.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
