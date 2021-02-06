@@ -51,7 +51,11 @@ namespace _24HourGroupAssignment.Services
                         }
                         );
 
+<<<<<<< HEAD
                 return query.ToList(); //
+=======
+                return query.ToList();
+>>>>>>> 89674b54b725038fba8963c6c8ab8963a993423c
             }
         }
 
