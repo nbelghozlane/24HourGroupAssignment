@@ -1,29 +1,34 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace _24HourGroupAssignment.Data
 {
-    public class Post
+    public class Comment
     {
-        //Amel
+        //Nadia
         [Key]
-        public int Id { get; set; }
-        [Required]
-        public Guid Author { get; set; }// Guid is a unique identifier for the user
-        [Required]
-        public string Title { get; set; }
+        public int CommentId { get; set; }
+
         [Required]
         public string Text { get; set; }
 
         [Required]
-        [Display(Name = "Created")]
+        public Guid Author { get; set; }
+
+        [Required]
         public DateTimeOffset CreatedUtc { get; set; }
+
         public DateTimeOffset? ModifiedUtc { get; set; }
-        public virtual List<Like> Likes { get; set; } = new List<Like>();
-         public virtual List<Comment> Comments { get; set; }
+
+        public virtual List<Reply> Replies { get; set; } = new List<Reply>();
+
+        [ForeignKey (nameof(Post))]
+        public int PostId { get; set; }
+        public virtual Post Post { get; set; }
     }
 }
