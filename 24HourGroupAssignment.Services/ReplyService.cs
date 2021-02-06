@@ -51,7 +51,7 @@ namespace _24HourGroupAssignment.Services
                         }
                         );
 
-                return query.ToArray();
+                return query.ToList();
             }
         }
 
