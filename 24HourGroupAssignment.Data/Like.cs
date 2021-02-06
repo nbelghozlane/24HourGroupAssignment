@@ -14,10 +14,11 @@ namespace _24HourGroupAssignment.Data
         public int LikeId { get; set; }
         public Guid OwnerId { get; set; }
 
+        [Required]
         [ForeignKey(nameof(Post))]
         public int PostId { get; set; }
         public virtual Post Post { get; set; }
-        [Required]
+
         [Display(Name = "Created")]
         public DateTimeOffset CreatedUtc { get; set; }
         public DateTimeOffset? ModifiedUtc { get; set; }

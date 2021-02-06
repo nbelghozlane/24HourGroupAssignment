@@ -8,7 +8,7 @@ namespace _24HourGroupAssignment.Models.Like
 {
     public class LikeCreate
     {
-        public int Like { get; set; }
+        
         public int PostId { get; set; }
     }
 }

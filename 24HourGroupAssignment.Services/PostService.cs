@@ -48,7 +48,7 @@ namespace _24HourGroupAssignment.Services
                         Title = e.Title,
                         //Comments = e.Comments,
                         CreatedUtc = e.CreatedUtc,
-                        Likes = e.Likes.Count()
+                        Likes = e.Likes.Count() // Count method will return the number of likes each post has
                     });
                 return entity.ToArray();
 

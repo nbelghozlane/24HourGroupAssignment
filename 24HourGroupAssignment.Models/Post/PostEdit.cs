@@ -8,6 +8,7 @@ namespace _24HourGroupAssignment.Models.Post
 {
     public class PostEdit
     {
+        //Update Post 
         public int PostId { get; set; }
         public string Title { get; set; }
         public string Text { get; set; }

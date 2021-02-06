@@ -68,3 +68,6 @@ C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\New folder (3)\24HourGrou
 C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\New folder (3)\24HourGroupAssignment\24HourGroupAssignment.Data\obj\Debug\24Hour.Data.csproj.CopyComplete
 C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\New folder (3)\24HourGroupAssignment\24HourGroupAssignment.Data\obj\Debug\24HourGroupAssignment.Data.dll
 C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\New folder (3)\24HourGroupAssignment\24HourGroupAssignment.Data\obj\Debug\24HourGroupAssignment.Data.pdb
+C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\New folder (3)\24HourGroupAssignment\24HourGroupAssignment.Data\obj\Debug\_24HourGroupAssignment.Data.Migrations.InitialCreate.resources
+C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\New folder (3)\24HourGroupAssignment\24HourGroupAssignment.Data\obj\Debug\24Hour.Data.csproj.GenerateResource.cache
+C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\New folder (3)\24HourGroupAssignment\24HourGroupAssignment.Data\obj\Debug\_24HourGroupAssignment.Data.Migrations.FirstMigration.resources
