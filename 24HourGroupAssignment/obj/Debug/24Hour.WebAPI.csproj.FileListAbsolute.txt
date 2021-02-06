@@ -125,8 +125,6 @@ C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\New folder (3)\24HourGrou
 C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\New folder (3)\24HourGroupAssignment\24HourGroupAssignment\obj\Debug\24Hour.WebAPI.csproj.CopyComplete
 C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\New folder (3)\24HourGroupAssignment\24HourGroupAssignment\obj\Debug\24HourGroupAssignment.dll
 C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\New folder (3)\24HourGroupAssignment\24HourGroupAssignment\obj\Debug\24HourGroupAssignment.pdb
-C:\Users\carlo\Desktop\24HourGroupAssignment(Final)\24HourGroupAssignment\obj\Debug\24Hour.WebAPI.csprojAssemblyReference.cache
-C:\Users\carlo\Desktop\24HourGroupAssignment(Final)\24HourGroupAssignment\obj\Debug\24Hour.WebAPI.csproj.CoreCompileInputs.cache
 C:\Users\Nadia\Desktop\24HourGroupAssignmentNew\24HourGroupAssignment\bin\24HourGroupAssignment.dll.config
 C:\Users\Nadia\Desktop\24HourGroupAssignmentNew\24HourGroupAssignment\bin\24HourGroupAssignment.dll
 C:\Users\Nadia\Desktop\24HourGroupAssignmentNew\24HourGroupAssignment\bin\24HourGroupAssignment.pdb
@@ -372,6 +370,8 @@ C:\Users\carlo\Desktop\24HourGroupAssignment(Final)\24HourGroupAssignment\bin\Mi
 C:\Users\carlo\Desktop\24HourGroupAssignment(Final)\24HourGroupAssignment\bin\Microsoft.Owin.Security.OAuth.xml
 C:\Users\carlo\Desktop\24HourGroupAssignment(Final)\24HourGroupAssignment\bin\System.Web.Http.Owin.xml
 C:\Users\carlo\Desktop\24HourGroupAssignment(Final)\24HourGroupAssignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\carlo\Desktop\24HourGroupAssignment(Final)\24HourGroupAssignment\obj\Debug\24Hour.WebAPI.csprojAssemblyReference.cache
+C:\Users\carlo\Desktop\24HourGroupAssignment(Final)\24HourGroupAssignment\obj\Debug\24Hour.WebAPI.csproj.CoreCompileInputs.cache
 C:\Users\carlo\Desktop\24HourGroupAssignment(Final)\24HourGroupAssignment\obj\Debug\24Hour.WebAPI.csproj.CopyComplete
 C:\Users\carlo\Desktop\24HourGroupAssignment(Final)\24HourGroupAssignment\obj\Debug\24HourGroupAssignment.dll
 C:\Users\carlo\Desktop\24HourGroupAssignment(Final)\24HourGroupAssignment\obj\Debug\24HourGroupAssignment.pdb

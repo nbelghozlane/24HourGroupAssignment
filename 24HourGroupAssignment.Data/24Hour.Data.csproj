@@ -87,6 +87,11 @@
     <Compile Include="Comment.cs" />
     <Compile Include="IdentityModels.cs" />
     <Compile Include="Like.cs" />
+    <Compile Include="Migrations\202102061850020_NewMigrationAfterMerge.cs" />
+    <Compile Include="Migrations\202102061850020_NewMigrationAfterMerge.Designer.cs">
+      <DependentUpon>202102061850020_NewMigrationAfterMerge.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Post.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Reply.cs" />
@@ -100,6 +105,11 @@
       <Project>{c79c8573-e9d5-4168-9ee5-8187bd63f94a}</Project>
       <Name>24Hour.Models</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\202102061850020_NewMigrationAfterMerge.resx">
+      <DependentUpon>202102061850020_NewMigrationAfterMerge.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -36,8 +36,6 @@ C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\New folder (3)\24HourGrou
 C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\New folder (3)\24HourGroupAssignment\24HourGroupAssignment.Services\obj\Debug\24Hour.Services.csproj.CopyComplete
 C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\New folder (3)\24HourGroupAssignment\24HourGroupAssignment.Services\obj\Debug\24HourGroupAssignment.Services.dll
 C:\Users\Louda\Dropbox\My PC (DESKTOP-63GO9II)\Desktop\New folder (3)\24HourGroupAssignment\24HourGroupAssignment.Services\obj\Debug\24HourGroupAssignment.Services.pdb
-C:\Users\carlo\Desktop\24HourGroupAssignment(Final)\24HourGroupAssignment.Services\obj\Debug\24Hour.Services.csprojAssemblyReference.cache
-C:\Users\carlo\Desktop\24HourGroupAssignment(Final)\24HourGroupAssignment.Services\obj\Debug\24Hour.Services.csproj.CoreCompileInputs.cache
 C:\Users\Nadia\Desktop\24HourGroupAssignmentNew\24HourGroupAssignment.Services\bin\Debug\24HourGroupAssignment.Services.dll.config
 C:\Users\Nadia\Desktop\24HourGroupAssignmentNew\24HourGroupAssignment.Services\bin\Debug\24HourGroupAssignment.Services.dll
 C:\Users\Nadia\Desktop\24HourGroupAssignmentNew\24HourGroupAssignment.Services\bin\Debug\24HourGroupAssignment.Services.pdb
@@ -77,6 +75,8 @@ C:\Users\carlo\Desktop\24HourGroupAssignment(Final)\24HourGroupAssignment.Servic
 C:\Users\carlo\Desktop\24HourGroupAssignment(Final)\24HourGroupAssignment.Services\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\carlo\Desktop\24HourGroupAssignment(Final)\24HourGroupAssignment.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\Users\carlo\Desktop\24HourGroupAssignment(Final)\24HourGroupAssignment.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\carlo\Desktop\24HourGroupAssignment(Final)\24HourGroupAssignment.Services\obj\Debug\24Hour.Services.csprojAssemblyReference.cache
+C:\Users\carlo\Desktop\24HourGroupAssignment(Final)\24HourGroupAssignment.Services\obj\Debug\24Hour.Services.csproj.CoreCompileInputs.cache
 C:\Users\carlo\Desktop\24HourGroupAssignment(Final)\24HourGroupAssignment.Services\obj\Debug\24Hour.Services.csproj.CopyComplete
 C:\Users\carlo\Desktop\24HourGroupAssignment(Final)\24HourGroupAssignment.Services\obj\Debug\24HourGroupAssignment.Services.dll
 C:\Users\carlo\Desktop\24HourGroupAssignment(Final)\24HourGroupAssignment.Services\obj\Debug\24HourGroupAssignment.Services.pdb
