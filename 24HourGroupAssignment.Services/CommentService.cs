@@ -38,7 +38,7 @@ namespace _24HourGroupAssignment.Services
         {
             using (var ctx = new ApplicationDbContext())
             {
-                var query =
+                var entity =
                     ctx
                         .Comments
                         .Where(e => e.Author == _userId)
@@ -48,12 +48,17 @@ namespace _24HourGroupAssignment.Services
                                 {
                                     CommentId = e.CommentId,
                                     Text = e.Text,
-                                    CreatedUtc = e.CreatedUtc
-                                    //Replies = e.Replies
+                                    CreatedUtc = e.CreatedUtc,
+                                    Replies=e.Replies.Select(z => new ReplyListItem
+                                    {
+                                        Id=z.Id,
+                                        Text=z.Text,
+                                    }).ToList()
+
                                 }
                         );
 
-                return query.ToArray();
+                return entity.ToList();
             }
         }
 
@@ -71,8 +76,12 @@ namespace _24HourGroupAssignment.Services
                         CommentId = entity.CommentId,
                         Text = entity.Text,
                         CreatedUtc = entity.CreatedUtc,
-                        ModifiedUtc = entity.ModifiedUtc
-                        //Replies = entity.Replies
+                        ModifiedUtc = entity.ModifiedUtc,
+                        Replies = entity.Replies.Select(z => new ReplyListItem
+                        {
+                            Id = z.Id,
+                            Text = z.Text,
+                        }).ToList()
                     };
             }
         }
