@@ -25,9 +25,13 @@ namespace _24HourGroupAssignment.Data
 
         public DateTimeOffset? ModifiedUtc { get; set; }
 
-        //public virtual List<Reply> Replies { get; set; } = new List<Reply>();
+        public virtual List<Reply> Replies { get; set; } = new List<Reply>();
 
+<<<<<<< HEAD
         [ForeignKey(nameof(Post))]
+=======
+        [ForeignKey (nameof(Post))]
+>>>>>>> 001f48e617f223252f53de89891965b5441c17bb
         public int PostId { get; set; }
         public virtual Post Post { get; set; }
     }

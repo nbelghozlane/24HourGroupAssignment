@@ -17,7 +17,7 @@ namespace _24HourGroupAssignment.Models
 
         [Display(Name = "Modified")]
         public DateTimeOffset? ModifiedUtc { get; set; }
-        //public virtual List<Reply> Replies { get; set; }
+        public virtual List<ReplyListItem> Replies { get; set; }
 
     }
 }

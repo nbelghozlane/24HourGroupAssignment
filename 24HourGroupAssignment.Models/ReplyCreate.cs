@@ -13,5 +13,7 @@ namespace _24HourGroupAssignment.Models
         [MinLength(1, ErrorMessage = "Please enter at least 1 character.")]
         [MaxLength(8000)]
         public string Text { get; set; }
+
+        public int CommentId { get; set; }
     }
 }

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -25,5 +26,10 @@ namespace _24HourGroupAssignment.Data
         public DateTimeOffset CreatedUtc { get; set; }
 
         public DateTimeOffset? ModiefiedUtc { get; set; }
+        
+        [Required]
+        [ForeignKey(nameof(Comments))]
+        public int CommentId { get; set; }
+        public virtual Comment Comments { get; set; }
     }
 }
