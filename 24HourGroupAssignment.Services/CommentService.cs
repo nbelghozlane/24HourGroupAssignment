@@ -48,12 +48,12 @@ namespace _24HourGroupAssignment.Services
                                 {
                                     CommentId = e.CommentId,
                                     Text = e.Text,
-                                    CreatedUtc = e.CreatedUtc
+                                    CreatedUtc = e.CreatedUtc,
                                     //Replies = e.Replies
                                 }
                         );
 
-                return query.ToArray();
+                return query.ToList();
             }
         }
 
