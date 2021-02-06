@@ -18,7 +18,7 @@ namespace _24HourGroupAssignment.Data
         public string Title { get; set; }
         [Required]
         public string Text { get; set; }
-        public int NumbersOfLike { get; set; }
+
         [Required]
         [Display(Name = "Created")]
         public DateTimeOffset CreatedUtc { get; set; }
