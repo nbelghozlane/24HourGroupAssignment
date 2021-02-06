@@ -13,11 +13,11 @@ namespace _24HourGroupAssignment.Models
         [MinLength(1, ErrorMessage = "Please enter at least 1 character.")]
         [MaxLength(10000, ErrorMessage = "Must have 10,000 characters or less in this field.")]
         public string Text { get; set; }
-<<<<<<< HEAD
+
         [Required]
         public int PostId { get; set; }//Added
-=======
+
         public int CommentId { get; set; }
->>>>>>> 001f48e617f223252f53de89891965b5441c17bb
+
     }
 }
