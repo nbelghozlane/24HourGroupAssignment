@@ -1,4 +1,5 @@
 ﻿using _24HourGroupAssignment.Data;
+using _24HourGroupAssignment.Models;
 using _24HourGroupAssignment.Models.Post;
 using System;
 using System.Collections.Generic;
@@ -48,13 +49,24 @@ namespace _24HourGroupAssignment.Services
                         Title = e.Title,
                         //Comments = e.Comments,
                         CreatedUtc = e.CreatedUtc,
-                        Likes = e.Likes.Count()
+                        Likes = e.Likes.Count(),
+                        Comments = e.Comments.Select(
+                     x => new CommentListItem
+                     {
+                         CommentId = x.CommentId,
+                         Text = x.Text,
+                         Replies=x.Replies.Select(
+                     y => new ReplyListItem
+                     {
+                         Id = y.Id,
+                         Text = y.Text,
+                         
+                     }).ToList()
+                     }).ToList()
                     });
                 return entity.ToArray();
 
-
             }
-
         }
         public PostDetails GetPostById(int id)
         {
@@ -70,7 +82,14 @@ namespace _24HourGroupAssignment.Services
                     PostText = entity.Text,
                     //Comments=entity.Comments,
                     CreatedUtc = entity.CreatedUtc,
-                    ModifiedUtc = entity.ModifiedUtc
+                    ModifiedUtc = entity.ModifiedUtc,
+                    Comments = entity.Comments.Select(
+                     x => new CommentListItem
+                     {
+                         CommentId = x.CommentId,
+                         Text = x.Text,
+
+                     }).ToList()
                 };
             }
         }

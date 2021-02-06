@@ -5,15 +5,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _24HourGroupAssignment.Models.Post
+namespace _24HourGroupAssignment.Models
 {
-    public class PostList
+    public class ReplyListItem
     {
-        public int PostId { get; set; }
-        public string Title { get; set; }
+        public int Id { get; set; }
+        public string Text { get; set; }
+
         [Display(Name = "Created")]
         public DateTimeOffset CreatedUtc { get; set; }
-         public virtual List<CommentListItem> Comments { get; set; }
-        public int Likes { get; set; }
     }
 }
