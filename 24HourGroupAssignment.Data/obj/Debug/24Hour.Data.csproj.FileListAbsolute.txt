@@ -107,3 +107,5 @@ C:\Users\Nadia\Desktop\24HourGroupAssignmentNew\24HourGroupAssignment.Data\obj\D
 C:\Users\Nadia\Desktop\24HourGroupAssignmentNew\24HourGroupAssignment.Data\obj\Debug\24Hour.Data.csproj.CopyComplete
 C:\Users\Nadia\Desktop\24HourGroupAssignmentNew\24HourGroupAssignment.Data\obj\Debug\24HourGroupAssignment.Data.dll
 C:\Users\Nadia\Desktop\24HourGroupAssignmentNew\24HourGroupAssignment.Data\obj\Debug\24HourGroupAssignment.Data.pdb
+C:\Users\Nadia\Desktop\24HourGroupAssignmentNew\24HourGroupAssignment.Data\obj\Debug\_24HourGroupAssignment.Data.Migrations.NewMigrationAfterMerge.resources
+C:\Users\Nadia\Desktop\24HourGroupAssignmentNew\24HourGroupAssignment.Data\obj\Debug\24Hour.Data.csproj.GenerateResource.cache

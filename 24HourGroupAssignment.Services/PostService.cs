@@ -52,9 +52,7 @@ namespace _24HourGroupAssignment.Services
                     });
                 return entity.ToArray();
 
-
             }
-
         }
         public PostDetails GetPostById(int id)
         {

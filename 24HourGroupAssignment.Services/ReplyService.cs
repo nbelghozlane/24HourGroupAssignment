@@ -23,7 +23,8 @@ namespace _24HourGroupAssignment.Services
                 {
                     Author = _userId,
                     Text = model.Text,
-                    CreatedUtc = DateTimeOffset.Now
+                    CreatedUtc = DateTimeOffset.Now,
+                    CommentId = model.CommentId
                 };
 
             using (var ctx = new ApplicationDbContext())
@@ -51,11 +52,8 @@ namespace _24HourGroupAssignment.Services
                         }
                         );
 
-<<<<<<< HEAD
                 return query.ToList(); //
-=======
-                return query.ToList();
->>>>>>> 89674b54b725038fba8963c6c8ab8963a993423c
+
             }
         }
 
